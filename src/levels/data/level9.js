@@ -21,5 +21,5 @@ export const level9 = {
     { x: 130, y: 3790, w: 40, h: 10, owner: 1, color: '#FF0000', targetId: 2 }, // P1 reveals P2's step
     { x: 630, y: 3640, w: 40, h: 10, owner: 2, color: '#0000FF', targetId: 4 }, // P2 reveals P1's step
   ],
-  exit: { x: 360, y: 100, w: 80, h: 60 }
+  exit: { x: 360, y: 2500, w: 80, h: 60 }
 };
