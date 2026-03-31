@@ -1,0 +1,27 @@
+export const level6 = {
+  id: 6,
+  name: "Level 6: Skyward Bound",
+  height: 1800,
+  isScrolling: true,
+  p1Start: { x: 380, y: 1720 },
+  p2Start: { x: 420, y: 1720 },
+  platforms: [
+    { x: 300, y: 1750, w: 200, h: 50, owner: 0 },
+    { x: 200, y: 1600, w: 80, h: 20, owner: 2 },
+    { x: 520, y: 1600, w: 80, h: 20, owner: 1 },
+    { x: 350, y: 1450, w: 100, h: 20, owner: 0 },
+    { x: 200, y: 1300, w: 80, h: 20, owner: 2 },
+    { x: 520, y: 1300, w: 80, h: 20, owner: 1 },
+    { x: 350, y: 1150, w: 100, h: 20, owner: 0 },
+    { x: 200, y: 1000, w: 80, h: 20, owner: 2 },
+    { x: 520, y: 1000, w: 80, h: 20, owner: 1 },
+    { x: 350, y: 850, w: 100, h: 20, owner: 0 },
+    { x: 200, y: 700, w: 80, h: 20, owner: 2 },
+    { x: 520, y: 700, w: 80, h: 20, owner: 1 },
+    { x: 350, y: 550, w: 100, h: 20, owner: 0 },
+    { x: 200, y: 400, w: 80, h: 20, owner: 2 },
+    { x: 520, y: 400, w: 80, h: 20, owner: 1 },
+    { x: 350, y: 250, w: 100, h: 20, owner: 0 },
+  ],
+  exit: { x: 360, y: 100, w: 80, h: 60 }
+};
