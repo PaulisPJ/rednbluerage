@@ -14,5 +14,5 @@ export const level4 = {
     { x: 550, y: 3600, w: 150, h: 20, owner: 1 },
     { x: 350, y: 3500, w: 100, h: 20, owner: 0 },
   ],
-  exit: { x: 360, y: 4000, w: 80, h: 60 }
+  exit: { x: 360, y: 3999, w: 80, h: 60 }
 };
